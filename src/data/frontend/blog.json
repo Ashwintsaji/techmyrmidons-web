@@ -49,6 +49,46 @@
     {
       "blog": "https://medium.com/dailyjs",
       "author":"DailyJS"
+    },
+    {
+      "blog": "https://benfrain.com/blog/",
+      "author":"Ben Frain"
+    },
+    {
+      "blog": "https://tympanus.net/codrops/",
+      "author":"Codrops"
+    },
+    {
+      "blog": "https://alistapart.com/articles/",
+      "author":"A List Apart"
+    },
+    {
+      "blog": "https://blog.codepen.io/",
+      "author":"CodePen Blog"
+    },
+    {
+      "blog": "https://blog.logrocket.com/",
+      "author":"LogRocket Blog"
+    },
+    {
+      "blog": "https://www.sarasoueidan.com/blog/",
+      "author":"Sara Soueidan Blog"
+    },
+    {
+      "blog": "https://frontendmasters.com/blog/",
+      "author":"Frontend Masters Blog"
+    },
+    {
+      "blog": "https://www.greatfrontend.com/blog",
+      "author":"GreatFrontEnd Blog"
+    },
+    {
+      "blog": "https://www.toptal.com/developers/blog/web-front-end",
+      "author":"Toptal Web Front-End Blog"
+    },
+    {
+      "blog": "https://jakearchibald.com/",
+      "author":"Jake Archibald’s Blog"
     }
 
   ]
