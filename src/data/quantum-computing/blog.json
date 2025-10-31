@@ -35,6 +35,46 @@
     {
       "blog": "https://www.quera.com/blog",
       "author": "QuEra"
+    },
+    {
+      "blog": "https://scottaaronson.blog/",
+      "author": "Scott Aaronson – Shtetl-Optimized"
+    },
+    {
+      "blog": "https://www.ibm.com/quantum/blog",
+      "author": "IBM Quantum Blog"
+    },
+    {
+      "blog": "https://quantumtechnicalblog.com/",
+      "author": "Quantum Tech Blog"
+    },
+    {
+      "blog": "https://www.quantum-machines.co/blog/",
+      "author": "Quantum Machines Blog"
+    },
+    {
+      "blog": "https://www.quantinuum.com/news/blog",
+      "author": "Quantinuum Blog"
+    },
+    {
+      "blog": "https://blogs.cisco.com/tag/quantum-computing",
+      "author": "Cisco Quantum Computing Blog"
+    },
+    {
+      "blog": "https://developer.nvidia.com/blog/tag/quantum-computing/",
+      "author": "NVIDIA Developer – Quantum Computing Tag"
+    },
+    {
+      "blog": "https://ionq.com/blog",
+      "author": "IonQ Blog"
+    },
+    {
+      "blog": "https://blogs.google/technology/research/quantum-computing/",
+      "author": "Google Research – Quantum Computing"
+    },
+    {
+      "blog": "https://everestgrp.com/blog/it-services/decoding-quantum-computing-uncovering-its-potential-impact-and-opportunities-part-i-blog.html",
+      "author": "Everest Group – Quantum Computing Impact Blog"
     }
   ]
 }
